@@ -12,7 +12,7 @@ github_repo: "https://github.com/furrymary/furrymary.github.io.git" # you code r
 # Sidebar settings
 sidebar: true                           # whether or not using Sidebar.
 sidebar-about-description: "你得先放手去做，然后才能有所领悟。"
-sidebar-avatar:FurryMary.github.io/img/blog头像.jpg   # use absolute URL, seeing it's used in both `/` and `/about/`
+sidebar-avatar: "FurryMary.github.io/img/blog头像.jpg"   # use absolute URL, seeing it's used in both `/` and `/about/`
 
 
 
