@@ -4,7 +4,7 @@ title:      《极早退休》序言
 subtitle:   经济独立的哲学和实践指南
 date:       2024-03-09
 author:     毛皮玛丽
-header-img: 
+header-img: img/西湖.jpg
 catalog: true
 tags:
     - 翻译
