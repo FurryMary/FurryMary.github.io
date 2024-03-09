@@ -25,123 +25,67 @@ tags:
 
 ## 作者的话
 我首先将这本书看作一本关于策略的哲学书籍。像大多数哲学书籍一样，较之实际内容，本书的篇幅显得有些冗长。其中许多篇幅意在重新定义一些基本概念和基础知识上。我试图找到一些合适的词汇去描述事物，并且这些词汇不那么容易导向通常的用法和理解。缺乏具体的细节是我有意为之的，因为这些概念并不适用于许多人。同时，我有意使用具备开放性的方式，让这些概念尽可能适用于不同的情况。这意味着，这些概念旨在创造一致性和弹性的结构，使之适用于其他组织类型，比如政策制定组织和商业管理部门。
+
 I think of this book first and foremost as a philosophy book about strategy. Like most philosophical books, it's voluminous compared to its content because much of it is dedicated to (re)defining underlying concepts and fundamentals, trying to find the words to describe something that isn't automatically implied by he usual understanding of the words used. The lack of concrete specifics is intentional because they won't pertain to very many people. The approach is deliberately open-ended to make the concepts applicable to as many different situations as possible. This may also mean that the concepts, which aim to create consilient and resilient structures, are applicable to other kinds of organizing like policy-making or business management.
 
-> **运动员A（中等技术 + 上等身体素质） >  运动员B（上等技术 + 下等身体素质）**
+这本书不是一种特定生活方式的指南，相反是一本教人如何创造指南的指南。本书的意图是让每一个人都能制定属于自己的策略。从这个意义上，它不是一本旅行游记或者一套地图，而是一本教你如何成为航海家的指南。我运用本书的原则，将我的开支减少到了普通人平均开支的四分之一，并且在五年之内实现了经济独立。虽然我的故事听起来很有趣或者鼓舞人心，但是它可能无法直接帮助某人实现相似的目标。同样，因为按照地图走更容易操作，人们可能在一开始受到这份地图的激励，但是他们行动过程中，如果遇到地图上没有的十字路口，最终依然会失败。所以，如果“驾驶员”缺乏导航技能，很可能就会半途而废。因此，我将这本书写成了教科书。学习如何实现经济独立，需要努力学习，这并不简单。如果这个过程很简单，那么每个人都会这么做。然而，这并不比拿到大学学历或者熟练某个领域更困难。我将在这本书中描述另一种生活方式，一种现代文艺复兴人的生活——成为经济独立和多才多艺的个体。
 
-## 作者的话
-
-### 一个假设
-
-我知道你还不相信我，所以我会用一个例子来说明我的观点。让我们来看看使用两个战士 Steve 和 JoJo 的假想情景。
-
-#### Steve:
-
-Steve 5岁开始学习柔术，由马塞洛·加西亚，拉法·门德斯和瑞克森·格雷西执教。它学会了他们所有的技巧，并且吸收了他们所有关于压力，时间和人体力学的智慧。他在接下来的13年里每周训练6天。
-
-18岁，体重200磅的 Steve 击败了所有对手取得了 [IBJJF（国际巴西柔术联合会](https://en.wikipedia.org/wiki/International_Brazilian_Jiu-Jitsu_Federation)）世界锦标赛的棕色带中量级冠军，并且立即被授予黑带。第二年，在对战拥有绝对黑带实力的 Buchecha（开头照片中的人）的决赛中，用了一个飞身十字固在13秒内降服了他。
-
-#### JoJo：
-
-JoJo 是一个10岁的银背大猩猩。他体重400磅。他从未接受过柔术或其他武术的训练。
-
-#### 一决胜负：
-
-假设 JoJo 与 Steve 展开一场柔术规则的比赛。
-
-你认为谁会赢得这场比赛？如果你认为 Steve 会用他的“无敌技巧”击败 JoJo，那么你就是妄想。（此外，你可以用 [点穴](https://en.wikipedia.org/wiki/Dim_Mak_Records) 试试~）
-
-JoJo 的**体格**与**力量**优势根本无法用技术来克服。
-
-![你可以知道世界上所有的柔术运动，但是你不会打败JoJo。](http://mjrnxewya3t1in23ybpwjw59.wpengine.netdna-cdn.com/wp-content/uploads/gorilla.jpg)
-
-### 真实的例子
-
-好吧，上面的例子非常不切实际，根本不会发生。但是，我可以举一些我身边的例子：
-
-#### 例子1:
-
-在2013年，我亲眼目睹了世界冠军中，一位黑带女性与体重相同的紫色带男性的比赛，他们在一个开放的垫子上打成一片。这个女人一点机会都没有。她在6分钟内拍垫近十次。
-
-那么现在是因为“女人不擅长柔术”还是因为“男人比女人好”呢？当然不是。这只是一个简单的力量问题。这位男性拥有更高的睾酮水平，因此拥有更强大的结缔组织和更多的肌肉。
-
-#### 例子2:
-
-我有一个朋友身高 1.95m，重达 300磅（136kg），是一个前NCAA中后卫球员。同时他也是柔术棕色腰带。他可以（而且经常）很容易地只用一只手臂将我从地面上抬起。当我们滚动时他绝对砸我，这时候基本上我是无能为力的。
-
-这是否因为他的技术比我好？当然不是。我的训练的时间比他更长，训练频率和强度要高得多。这是因为他比我更高，更大，更强壮。
-
-#### 例子3:
-
-我的正常体重大约是203磅（92kg）。有时，由于各种原因，包括力量训练计划，肌酸周期或假日过度放纵，可能会高达218甚至220磅。
-
-因为我一直在垫子上呆着，所以我可以敏锐的察觉到体重对于柔术的影响。我可以直接告诉你：你越重，对抗越轻松。我可以更轻松的控制体重较轻的对手，并且能对抗更长的时间。
-
-### 这个神话是从哪里来的？
-
-#### 传统武术的胡扯
-
-这个误解也是传统武术的骗人的精髓所在。告诉一个弱小的人学习了某种武术，他就轻松可以击败比他高大，更强壮的坏人。
-
-在20世纪，一个巨大的产业就建立在这个基础之上，各种乱七八糟的武术系统被包装并推给了好骗的西方人。尽管MMA中的柔术技术帮助清除了许多武术的骗局，但现在仍然受到影响。
-
-
-#### 柔术课的结构
-
-还有一部分原因是由于柔术学院商业模式的本质。虽然柔术比赛竞争激烈，但是现在的柔术学院通常还只是围绕着`技术动作`和`实战对抗`这两个方面进行教学和训练。因此，早期的先驱者重视身体训练，这是有道理的。
-
-乔治·圣皮埃尔的教练Firhas Zahabi曾经对我说过。“随着柔术学院商业化的推广，我们看到了很多必要的体能训练消失了。”他说的对，在绝大多数的柔术学院中，体能训练并不被重视。当然，你也可以做一些跳跃俯卧撑和俯卧撑作为热身的一部分，但这还远远不够。看看拳击手和摔跤手。体能训练往往是他们训练的最重要的组成部分，而对抗往往是花时间最小的一个。
-
-#### 罗伊斯·格雷斯 与 UFC
-
-罗伊斯·格雷西（Royce Gracie）在 UFC 早期的比赛中的惊人表现导致了一些人相信技术确实是无敌的。在我看来，罗伊斯赢了，因为他打的比赛看起来像这样：
-
-> **斗士A（中等属性+强大的技术）> 斗士B（伟大的属性+没有技术）**
-
-由于第二代 MMA 斗士的的属性已经改变，因为家伙们已经开始学习柔术了。比赛开始更像这样：
-
-> **斗士A（中等属性+强大技术）≥ 斗士B（强大属性+一点点技巧）**
-
-在如今的 MMA 比赛中，我们经常看到的情况是这样的：
-
-> **斗士A（卓越的属性+伟大的技术）> 斗士B（伟大的属性+伟大的技术）**
-
-#### 杠杠原理的迷惑
-
-杠杠原理能成倍加强力量，但不是力量的来源。当然，杠杠原理能帮你能更有效的利用力量，但没有力量来源，这个杠杠力也不复存在。这就是‘柔术’中‘杠杠原理’这个概念的迷惑性。
-
-尽管可能会有人告诉你，没有人能为柔术添加杠杠作用。但是一些聪明的运动员及教练确实能够准确的找到杠杠的支点，并且使用的力量来完成动作，效果惊人。
-
-### 好消息
-
-好消息是就算你只进行柔术对抗训练也能自然而然的提升你的体能，尽管这个提升有局限性并且基因决定了你的体能极限（抱歉，就是这样），而通过科学而且集中体能训练可以大幅度提升你的体能。
-
-同时，体型小的训练者并不是总是处于劣势。相对力量会随着体型的增加而减小。所以假设其他条件相同的情况下，一个体重比你大20%的对手，力量并不会比你大20%，通常这个值会是12%~15%。这就意味着那些拥有惊人身体的小个子训练者通常会扳平体型的劣势，有时候甚至还会反超。
-
-最后一个就是力量的增长也会随着年龄的增长而称下降的趋势，并在年老的时候就维持不变了。“人的力量就是这么真实”。
+This book isn't a guide to a specific lifestyle, but rather a guide on how to create guides. Its intention is for each person to develop their own strategy. In this sense, it's not a travelogue or a set of map directions; it's a manual that teaches you how to become a navigator. I applied the principles in this book to reduce my expenses to a quarter of the average person's and achieve financial independence within five years. While my story might be entertaining or inspiring, it might not directly aid someone in reaching a similar goal. Similarly, while map directions may initially motivate due to their actionable nature, they would fail when encountering a crossroads not on the map. This could halt the journey if the "pilot" lacks navigational skills. Therefore, I've written the book as a textbook. Learning how to achieve financial independence requires study, effort, and is not easy. If it were easy, everyone would be doing it. However, it's no more difficult than obtaining a college education or becoming skilled in a trade. What I'll describe here is another way of life - the life of an independently wealthy and versatile individual - a modern Renaissance person.
 
 
 
-### 如何变得更强
+## 关于难度级别的说明
 
-#### 检查你的激素水平
+这不是一本给初学者的书。就像读一本物理学教科书不能让一个人成为物理学家一样。这本书也不能让一个人读完就立刻实现经济独立。只有当这些概念被不断应用，一个人开始像“物理学家一样思考”，真正的转变才会发生。追求经济独立亦然。
+我认为，这本书可以在不同的级别进行阅读，因为人们在阅读的过程中也会随着学习而不断改变。根据你的位置，这本书会以不同方式和你产生联系。这是好事，因为那么不断进化的人最终会变成不同的人。曾经似乎像是一种牺牲的事情，将会变得自然而然，而过去习以为常的事情则会被视作不必要的牺牲。那些过去被当做一系列工具的东西，将会变成通用的原则；曾经觉得富有挑战的事情，现在却变得很简单。
 
-如果你是一个男性柔术运动员，我建议你去内分泌专家那检查你的激素水平。如果你的睾丸酮激素水平过低，不管你如何训练，你的身体素质都不会有较大的提升。一个好医生会建议你使用多种补剂和药品来解决这个问题。
+A note about the difficulty level
 
-#### 体操
+This isn't a book for beginners. It's not a book one can pick up, read, and proceed to become financially independent just as reading a textbook about physics won't turn a person into a physicist. This only happens when the concepts are constantly applied and one starts "thinking like a physicist." Things are similar for a person pursuing financial independence. This is a book which I think can be read at several different levels. The
+reason for different levels is that people change as they learn. Depending on where you are, the book will relate to you in different ways. This is good, because those who evolve will become different people, eventually. What used to seem like a sacrifice will seem natural, and what used to seem natural will come to be seen as a sacrifice. What used to be a collection of techniques will become a general principle. What used to feel challenging will now feel easy.
 
-总体来说，拥有了功能性力量与身体控制能力，你将很难被击败。如果让我在力量训练之外再挑选一个最为柔术的赋值训练，那就是体操了。
+## 关于入门的说明
 
-#### 攀岩
+在踏出第一步前，你不需要掌握所有事情。毕竟，你不需要了解引擎是怎么工作的，就能驾驶一辆车。事实上，你可以开不同类型的车，因为大多数车的操作都差不多。然而，不同的开车技巧会显著影响燃油效率。尽管一辆车可能被宣传为每加仑油可行驶33英里，但是优秀的开车技巧可以使这个数字翻倍，而不良的技巧则可能使其减半。比如，一个简单的技巧是将车速减少5英里/小时，这通常会让大多数司机的车速回到限速。同样地，如果把生活比作驾驶一种特定的交通工具，这本书提供的技巧也可以在不需要完全理解其原理的情况下应用。理解这些技巧背后的原理，可以让你之后能够调整和改进它们。
 
-另一项能直接对柔术的运动表现及其力量提升极大的运动就是攀岩了，尤其是握力。
+A Note about Getting Started
 
-#### 举重
+You don't need to master everything before taking the first step. After all, you can drive a car without knowing how the engine works. In fact, you can drive various types of cars because most of them handle similarly. However, sticking with the analogy, different driving techniques can significantly affect fuel efficiency. While a car may be advertised as having a fuel efficiency of 33 miles per gallon (mpg), good driving techniques can double that number, while poor techniques can cut it in half. A simple technique, for instance, is reducing speed by just 5 mph, which typically brings most drivers back to the speed limit. Similarly, if life is likened to driving a specific "vehicle," this book offers techniques that can be applied without fully comprehending why they work. Understanding the underlying principles will then enable one to refine and enhance these techniques.
 
-举重对运动表现的提升不是通过几组二头弯举或者卧推就可以的，那是健身。你需要在专业教练的指导下练习奥运举和力量举（例如挺举，深蹲）。
+## 关于参考资料的说明
 
-### 你该怎么做
+这不是一份学术作品。我抵制了中世纪式学术传统的诱惑，没有引用古老书籍，在权威人士的论述基础上得出观点。我发现演示从基本原理推导出的结论，更有利于最终的应用。我没有提供参考资料，而是在本书的附录中提供了一份书目，每一本书都会为本书的主题增添内容。
 
-提高柔术水平不仅仅是提升柔术技术。我喜欢柔术的技术，它是那样的直接有效，令人着迷。如果你想在道垫上降服对手，高质量的动作是必不可少的。但这还不够。你可以在[这篇文章](http://www.jiujitsubrotherhood.com/brazilian-jiu-jitsu-tips-a-c-t-model/)中找到答案。
+A note about references
+This is not an academic work. I have resisted the temptation to follow the medievally inspired academic tradition of citing old books to make statements based on authority.I find that showing the derivation from basic principles is more useful for application. Instead of references, I have provided a bibliography of books in the appendix of this book, each of which will add to the subject.
 
-真正的武术家是一个在各个方面力精益求精的人。这包括变得更加强壮。如果你想成为顶级的柔术家，将你的体能提升到极限是你的必修课。
+## 关于地理的说明
+
+虽然本书的例子有些偏向以美国为中心，但这些方法在任何实行市场经济的发达国家中都应该适用。不同国家的退休计划可能有不同的名称，但每个国家都向其公民提供非常相似的计划。在一些国家，医疗保健是通过税收支付的，而在其他国家则是自费支付。无论如何，在发达国家，商品和服务的价格都是相似的，因此即使技术细节有所不同，本书中的策略依然能够奏效。
+
+A note about geography
+
+While this book is somewhat US-centric in its examples, the methods should work in any developed country with a market economy. Retirement plans have different names from country to country, but every country offers very similar plans to its citizens. In some countries health care is paid through taxes, and in
+other countries it's paid out of pocket. In any case the prices for goods and services are similar in developed countries so the strategies in this book will
+work, even if technical details differ.
+
+## 关于原创性的说明
+
+费曼曾经说过，解决问题的最佳方式是走出固有思维模式，忽略先前的出版物，得出自己的结论。采用这样的方法，往往会发现最初被认为是新颖的概念，实际上早已被发现。事实上，本书中的许多观念可以追溯到几十年甚至几个世纪前。
+
+举个例子，当我还是个十几岁的少年时，我浪费了很多时间玩电脑游戏。我特别喜欢的一种游戏类型是实时战略游戏，比如《沙丘》、《魔兽争霸I和II》以及《命令与征服》。在这些游戏中，你建立起由各种个体（坦克、战士等）组成的力量。当这些个体战斗时，他们都会一直以全力战斗，直到被摧毁或击毙。由于损耗率取决于正在开火或打击的武器数量，因此在战斗中的最佳策略，是让你手下所有的火力一次只攻击一个敌人，以尽快减少正在开火或打击的敌人数量。许多玩家都独立“发现”了这个策略，这被称之为兰切斯特方阵定律。而这些玩家并不知道这个策略实际上在一战期间已经被弗雷德里克·W·兰切斯特发现了。对于生活中的许多观察，情况也是如此。顺便说一句，这也是为什么阅读经典作品是非常有价值的——概念会被发现，也会被遗忘，然后被重新发现，不论是个人独立发现还是通过阅读古籍。就像兰切斯特定律一样，我发现了本书中的许多概念，后来才发现其他人已经在我之前发现并命名了这些概念。进一步的阅读又揭示了在他们之前，其他人已经写过这个概念，依此类推。类似地，我相信兰切斯特并不是第一个思考如何最有效地指挥投石机的人。
+
+A note about originality
+
+Feynman once remarked that the best way to find new insights into a problem was to step out of the box, ignore previous publications, and come to your own conclusions. With such an approach, it often happens that a concept which is initially considered to be novel turns out to have been discovered already. In fact, many of the ideas in this book go back decades and even centuries.
+To give an example, when I was a teenager, I wasted a lot of my time playing computer games. One genre I particularly enjoyed was real-time strategy: games like Dune, Warcraft I and II, and Command and Conquer. In these games you build up forces comprised of individual units (tanks, warriors, etc.). When these units fight, each fights at full strength until it's destroyed or killed. Since the rate of attrition depends on the number of weapons firing or striking, the optimal strategy in a battle is therefore for all your units to attack a single individual enemy at a time to reduce the number of enemies firing or striking as fast as possible. A great many players have independently "discovered" this strategy, called Lanchester's Square Law, without being aware that it had actually already been discovered by Frederick W. Lanchester during World War I. So it is with many observations about life in general. This incidentally is why reading the classics is very worthwhile--concepts get discovered, forgotten, and then rediscovered, either independently or by reading old books. Like Lanchester's Law, I discovered many of the concepts in this book only to find out later that someone else had already discovered and named the concept before me. Further reading revealed that yet others had written about the concept before them, and so on. Analogously, I'm sure that Lanchester wasn't the first person to think about how to most effectively direct the fire of siege trebuchets.
+
+## 关于完整性的说明
+
+我们总是面临想让一本书更加完整的诱惑。然而，必须划出一条界限，否则这本书会变得像一部小百科全书一样庞大。毕竟，必须掌握的知识量并不小，因此我无法将所有内容都描述出来。但是，我希望我已经用了足够多与之相关的关键词，以便读者在互联网上快速搜索更多信息。在所有情况下，我都努力使用通用词汇，而不是行业黑话。
+
+A note about completeness
+There's always the temptation to make a book complete. However, a line must be drawn lest the book grow to the size of a minor encyclopedia. After all, the quantity of knowledge that must be mastered is not trivial, and thus I can't
+describe everything. However, I hope I've used enough relevant keywords to allow a quick search on the Internet for more information. In all cases I've striven to use standard words rather than jargon.
+
+【未完待续……】
